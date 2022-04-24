@@ -9,5 +9,6 @@ public class test {
         System.out.println("wosji");
         System.out.println(111);
         System.out.println("xxxx");
+        System.out.println("丹麦冲突");
     }
 }
