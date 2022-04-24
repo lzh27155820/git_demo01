@@ -6,5 +6,7 @@ package com.liu;
 public class test {
     public static void main(String[] args) {
         System.out.println("hsjshjhqq");
+        System.out.println("wosji");
+        System.out.println(111);
     }
 }
