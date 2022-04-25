@@ -11,5 +11,6 @@ public class test {
         System.out.println("xxxx");
         System.out.println("丹麦冲突");
         System.out.println("代码冲突了");
+        System.out.println("代码冲突了");
     }
 }
